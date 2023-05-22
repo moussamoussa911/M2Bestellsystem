@@ -1,0 +1,602 @@
+	Ackerstraße 
+
+	Ahornstraße 
+
+	Akazienstraße 
+
+	Albert-Einstein-Weg 
+
+	Albert-Schweitzer-Straße 
+
+	Alfred-Delp-Straße  (Horst und Wall)
+
+	Alt Metelener Weg 
+
+	Alt-Metelener-Weg 
+
+	Alte Maate 
+
+	Althorststraße 
+
+	Am Alten Bauhof 
+
+	Am Bahndamm 
+
+	Am Bahnhof  (Horst und Wall)
+
+	Am Brook 
+
+	Am Feldbach  (Langenhorst)
+
+	Am Freibad 
+
+	Am Hang 
+
+	Am Kirchenbusch  (Langenhorst)
+
+	Am Kolk 
+
+	Am Langenhorster Bahnhof 
+
+	Am Laukreuz 
+
+	Am Spieker 
+
+	Am Stadion 
+
+	Am Webstuhl 
+
+	Am Wigbold 
+
+	Amselstraße 
+
+	An Den Quellen 
+
+	An Den Teichen 
+
+	An Den Wiesen 
+
+	An Der Erholung 
+
+	An Der Helle 
+
+	An Der Wallhecke 
+
+	Anne-Frank-Straße  (Horst und Wall)
+
+	Anton-Wegener-Weg  (Horst und Wall)
+
+	Arndtstraße  (Horst und Wall)
+
+	Asternweg  (Horst und Wall)
+
+	Augustin-Wibbelt-Straße  (Horst und Wall)
+
+Bahnhofstraße 
+
+Beethovenstraße 
+
+Behringstraße 
+
+Bentheimer Straße 
+
+Bergstraße 
+
+Bergweg 
+
+Bertha Jodaan-Van Heek Straße  (Welbergen)
+
+Bertha Jordaan-Van Heek Straße  (Welbergen)
+
+Birkenstraße  (Horst und Wall)
+
+Bökerhook  (Langenhorst)
+
+Bollhorststraße 
+
+Brechter Weg  (Westerbauerschaft)
+
+Breslauer Straße  (Langenhorst)
+
+Brink  (Welbergen)
+
+Brookkamp  (Langenhorst)
+
+Brookstraße 
+
+Brookweg  (Langenhorst)
+
+Buchenstraße  (Horst und Wall)
+
+Bültstraße 
+
+Buschlandweg 
+
+Bussardweg  (Horst und Wall)
+Canisiusstraße 
+
+Capellestraße  (Welbergen)
+
+Claus-Von-Stauffenberg-Straße  (Horst undWall)
+
+
+
+Dachsweg  (Horst und Wall)
+
+Dahlienweg  (Horst und Wall)
+
+Daimlerweg 
+
+Deipenbrook 
+
+Deipengrund 
+
+Dieselweg 
+
+Dietrich-Bonhoeffer-Straße  (Horst und Wall)
+
+Dionysiusweg  (Welbergen)
+
+Dorfstraße  (Welbergen)
+
+Dornstiege 
+
+Dränke 
+
+Drosselstraße 
+
+Droste-Hülshoff-Straße  (Horst und Wall)
+Eichendorffallee  (Langenhorst)
+
+Eichenstraße  (Horst und Wall)
+
+Elchdamm  (Horst und Wall)
+
+Elsterweg 
+
+Emsweg 
+
+Erich-Kästner-Straße  (Horst und Wall)
+
+Erlenstraße  (Horst und Wall)
+
+Eschenweg 
+
+Eschstraße  (Welbergen)
+
+Falkenweg  (Horst und Wall)
+
+Farnweg 
+
+Fasanenstraße  (Horst und Wall)
+
+Felderhook  (Langenhorst)
+
+Feldkamp 
+
+Feldstraße  (Horst und Wall)
+
+Fichtenstraße  (Horst und Wall)
+
+Finkenstraße 
+
+Fliederweg  (Horst und Wall)
+
+Friedrich-Wilhelm-Weber-Straße  (Horst und Wall)
+
+Fritz-Reuter-Straße  (Horst und Wall)
+
+Fuchsschneise  (Horst und Wall)
+
+Fürstenbergstraße 
+
+Ganghoferstraße  (Horst und Wall)
+
+Gartenstiege 
+
+Gartenweg  (Langenhorst)
+
+Gasstraße 
+
+Gausebrink 
+
+Gaußstraße 
+
+Gauxbachweg  (Welbergen)
+
+Gellenbeckstraße 
+
+Geschwister-Scholl-Straße  (Horst und Wall)
+
+Gildehauser Weg 
+
+Ginsterstraße 
+
+Glatzer Straße  (Horst und Wall)
+
+Goethestraße  (Horst und Wall)
+
+Görlitzer Straße  (Langenhorst)
+
+Gosenkamp  (Langenhorst)
+
+Gottfried-Keller-Straße 
+
+Grafenorter Straße  (Horst und Wall)
+
+Grafschafter Weg 
+
+Gravenkamp  (Langenhorst)
+
+Gronauer Straße 
+
+Grüner Weg 
+
+Gutenbergstraße 
+
+Haarweg  (Westerbauerschaft)
+
+Habichtsweg  (Horst und Wall)
+
+Hahnenkamp  (Horst und Wall)
+
+Hamannstraße  (Welbergen)
+
+Hasenstraße 
+
+Hauptstraße  (Langenhorst)
+
+Heckenweg  (Horst und Wall)
+
+Heideweg 
+
+Heimstättenweg 
+
+Hellstiege 
+
+Herderstraße  (Horst und Wall)
+
+Hinterstraße 
+
+Hogelucht  (Horst und Wall)
+
+Höhenweg 
+
+Horststraße  (Horst und Wall)
+
+Hospitalstraße 
+
+Hueskamp  (Langenhorst)
+
+Igelpatt  (Horst und Wall)
+
+Ijseelstraat 
+
+Iltisweg  (Horst und Wall)
+
+Im Hook 
+
+Im Kamp  (Welbergen)
+
+Im Wiesengrund 
+
+Jahnstraße 
+
+Jückweg 
+
+Kaiserskamp 
+
+Kampstraße  (Horst und Wall)
+
+Kardinal-Von-Galen-Straße  (Horst und Wall)
+
+Karl-Leisner-Straße  (Horst und Wall)
+
+Keplerweg 
+
+Kiefernweg 
+
+Kirchplatz 
+
+Kleiberweg 
+
+Klockenbrink 
+
+Kneippstraße 
+
+Kniepenkamp 
+
+Kolpingstraße 
+
+Kolumbusstraße 
+
+Kopernikusstraße 
+
+Krähenweg 
+
+Kranenbült 
+
+Kreuzweg  (Horst und Wall)
+
+Krummer Weg 
+
+Kuhrietsweg  (Horst und Wall)
+
+Kuhweide 
+
+Kurze Straße 
+
+Lambertiweg 
+
+Lange Wiese  (Langenhorst)
+
+Langenhorster Weg 
+
+Laurenzstraße 
+
+Lautstraße  (Horst und Wall)
+
+Lenauweg  (Langenhorst)
+
+Lerchenstraße 
+
+Lessingstraße  (Horst und Wall)
+
+Liebigstraße 
+
+Lilienthalstraße 
+
+Lindenstraße  (Horst und Wall)
+
+Lindhorststraße 
+
+Lise-Meitner-Straße 
+
+Lönsweg 
+
+Lortzingstraße 
+
+Luise-Hensel-Straße  (Horst und Wall)
+
+Lütkefeld  (Langenhorst)
+
+Marderstiege  (Horst und Wall)
+
+Margueritenweg 
+
+Marienstraße 
+
+Markenkamp 
+
+Marktplatz 
+
+Marktstraße 
+
+Maximilian-Kolbe-Straße  (Horst und Wall)
+
+Meisenstraße 
+
+Mendelweg 
+
+Metelener Damm  (Langenhorst)
+
+Metelener Straße  (Horst und Wall)
+
+Mohnstraße 
+
+Mohringhook  (Welbergen)
+
+Mörikestraße  (Langenhorst)
+
+Morsestraße 
+
+Mozartstraße 
+
+Mühlenstraße 
+
+Mührenplatz  (Langenhorst)
+
+Nachtigallenweg 
+
+Nansenweg 
+
+Nelkenweg  (Horst und Wall)
+
+Niedereschstraße 
+
+Niehoffs Kamp  (Langenhorst)
+
+Nienborger Damm 
+
+Op De Notteln  (Welbergen)
+
+Oster  (Osterbauerschaft)
+
+Osterstraße 
+
+Ostwall 
+
+Overbergstraße 
+
+Pappelnweg 
+
+Parkstraße 
+
+Pastor-Hinrichs-Weg  (Welbergen)
+
+Pastor-Tigges-Weg 
+
+Pestalozzistraße  (Horst und Wall)
+
+Pirolweg 
+
+Piusstraße 
+
+Platanenweg 
+
+Postdamm 
+
+Poststraße 
+
+Pöttkerweg  (Horst und Wall)
+
+Professor-De-Vries-Straße  (Horst und Wall)
+
+Professor-Gärtner-Straße 
+
+Professor-Katerkamp-Straße  (Horst und Wall)
+
+Pröpstinghoff 
+
+Pröpstingweg 
+
+Riedweg 
+
+Rilkestraße  (Langenhorst)
+
+Robert-Bosch-Straße 
+
+Robert-Koch-Str. 
+
+Röntgenstraße 
+
+Roseggerstraße  (Horst und Wall)
+
+Rosenstraße 
+
+Rotdornstraße  (Horst und Wall)
+
+Rüenberger Straße 
+
+Sandkuhle 
+
+Schillerstraße  (Horst und Wall)
+
+Schlehenweg 
+
+Schmaler Weg  (Horst und Wall)
+
+Schnatweg 
+
+Schöneberg 
+
+Schubertstraße 
+
+Schulstraße  (Welbergen)
+
+Schürkamp  (Langenhorst)
+
+Schützenstraße 
+
+Schützenweg  (Langenhorst)
+
+Schwalbenweg 
+
+Schweringhook  (Welbergen)
+
+Seilerstraße 
+
+Sommerstiege  (Welbergen)
+
+Spechtstraße 
+
+Sperberweg  (Horst und Wall)
+
+Sperlingstraße 
+
+Spinnereistraße  (Horst und Wall)
+
+Stahmstraße  (Langenhorst)
+
+Starenstraße 
+
+Steenkamp  (Langenhorst)
+
+Stettiner Straße  (Langenhorst)
+
+Stift  (Langenhorst)
+
+Südwall 
+
+Sunnenbrink 
+
+Tannenweg 
+
+Taubenstraße  (Horst und Wall)
+
+Teupenhook  (Langenhorst)
+
+Töpferstraße 
+
+Tulpenweg  (Horst und Wall)
+
+Turmstraße 
+
+Ulmenweg 
+
+Uphoffstiege 
+
+Vechtestraße  (Langenhorst)
+
+Virchowstraße 
+
+Von-Bucholtz-Straße  (Welbergen)
+
+Von-Gallitzin-Straße  (Welbergen)
+
+Von-Kleist-Weg  (Horst und Wall)
+
+Waldstraße 
+
+Wannenmacherweg 
+
+Warthaer Straße  (Horst und Wall)
+
+Webereistraße 
+
+Weidenstraße 
+
+Weidkamp  (Langenhorst)
+
+Weilautstraße  (Horst und Wall)
+
+Weiner 
+
+Weinerpark 
+
+Weinerstraße 
+
+Weißdornweg 
+
+Werner-Brinkwirth-Straße 
+
+Werner-von-Siemens-Straße 
+
+Wernher-Von-Braun-Straße 
+
+Wester  (Westerbauerschaft)
+
+Westerhege  (Westerbauerschaft)
+
+Westwall 
+
+Willeberge  (Welbergen)
+
+Winkelstraße 
+
+Witthagen  (Horst und Wall)
+
+Zeisigweg 
+
+Zeppelinstraße 
+
+Zum Austeresch 
+
+Zum Rottkamp 
+
+Zur Alten Ziegelei 
+
+Zur Waist 
+
+
+
